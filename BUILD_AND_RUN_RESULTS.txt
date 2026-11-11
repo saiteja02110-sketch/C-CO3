@@ -1,0 +1,1 @@
+Expected checks and execution instructions are in the report. Actual sanitizer results and performance timings must be captured on the student's machine; they are hardware/compiler dependent.
